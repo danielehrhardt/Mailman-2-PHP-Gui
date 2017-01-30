@@ -81,7 +81,7 @@ if (!empty($_POST)) {
 
 <body>
     <div class="container">
-		<h2 class="margin-bottom text-center">EC Zeltlager Mailinglisten</h2>
+		<h2 class="margin-bottom text-center">Mailinglisten</h2>
 		<?php if (!empty($_POST)) { ?>
 			<div class="alert alert-success"> 
 				<?php 
