@@ -20,4 +20,4 @@ Listen eintragen
 
 Screenshots
 ------------
-![enter image description here](http://fs5.directupload.net/images/170130/z6kfsnmq.png)
+![](http://fs5.directupload.net/images/170130/z6kfsnmq.png)
